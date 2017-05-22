@@ -4,8 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: About.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
     - text: "CV"
       href: Manjourides_CV.pdf
+    - text: "Personal"
+      href: personal.html
 output_dir: "."
