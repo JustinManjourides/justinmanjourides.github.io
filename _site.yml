@@ -7,5 +7,5 @@ navbar:
     - text: "About"
       href: About.html
     - text: "CV"
-      href: CV.html
+      href: Manjourides_CV.pdf
 output_dir: "."

@@ -1,4 +1,8 @@
 ---
 title: "My Homepage"
 ---
-Hello world
+I am an Assistant Professor in the [Health Sciences](http://www.northeastern.edu/bouve/health-sciences/) department at [Northeastern University](www.northeastern.edu). I earned a BS in Mathematics and Statistics from the [University of Florida](www.ufl.edu) in 2004 and my PhD in Biostatistics from [Harvard Unviersity](https://www.hsph.harvard.edu/biostatistics) in 2009.
+
+I am a biostatistician trained to develop and apply statistical methodologies across disciplines to generate hypotheses, analyze data, and answer major research questions. My primary areas of application are air pollution epidemiology, occupational health and safety interventions, and the analysis of infectious disease treatment cohorts. 
+
+My current teaching interests involve removing prerequisites to higher level statistics classes, teaching across multiple software platforms, and developing a data science curriculum for undergraduate students.
