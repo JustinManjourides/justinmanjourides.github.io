@@ -5,11 +5,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Teaching"
-      href: teaching.html
+      href: Teaching.html
     - text: "Research"
-      href: research.html
+      href: Research.html
     - text: "CV"
       href: Manjourides_CV.pdf
     - text: "Personal"
-      href: personal.html
+      href: Personal.html
 output_dir: "."
