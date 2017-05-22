@@ -2,4 +2,17 @@
 title: "Teaching"
 
 ---
-#Teaching
+I teach biostatistics courses across all education levels, including undergraduate, masters, and PhD student learners. I also develop courses for traditional in-person experiences as well as classes that are delivered completely online. I design my courses to ease students back into a mathematical mindset, and slowly build up to statistical formulae through intuitive and instructive real-world examples. 
+
+In recognition of my teaching achievements, while maintaining an active research portfolio, I was selected as the **2015 Northeastern University Kenerson Faculty Scholar**, an award that recognizes a faculty member who has shown a commitment to improving the health of people in the urban community through interdisciplinary research and teaching activities. 
+
+##Current Courses  
+* PHTH5210 - Biostatistics in Public Health (on-line) [Spring 2017](PHTH_5210_Syllabus_spring 2017.pdf)
+* PHTH6210 - Applied Regression Analysis [Spring 2017](PHTH6210-Syllabus-SP17.pdf)
+
+##Previous Courses
+* PHTH5210 - Biostatistics in Public Health: Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014
+* PHTH2210 - Foundations of Biostatistics: Fall 2014, [Fall 2015](FoundationsOfBiostatistics_Syllabus.pdf)
+* PHTH6210 - Applied Regression Analysis: Spring 2013, Spring 2014, Spring 2015
+* PHTH9999 - Applied Surival Analysis: Spring 2016
+* HSCI1000 - Introduction to College: Fall 2012

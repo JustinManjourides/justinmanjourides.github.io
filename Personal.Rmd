@@ -2,4 +2,9 @@
 title: "Personal"
 
 ---
-#Personal
+##Hobbies
+
+* From 2005-2015 I was an assistant coach for the [Boston Renegades](www.blindcitizens.org/renegades), a [Beep Baseball](www.NBBA.org) team that plays a form of baseball that has been adapted for blind and visually imaired athletes.  
+* I enjoy cooking and baking bread. In 2010 my amateur career peaked when I won 1st Place in the [Lamb Takedown](http://thetakedowns.com/bizonculous-cooks-teach-boston-a-lamb-master-class/), a cooking competition for amateur chefs.  
+* I also try to run as often (and as fast) as possible. You can keep up with me on [Strava](https://www.strava.com/athletes/16743416).  
+
