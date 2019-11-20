@@ -12,4 +12,6 @@ navbar:
       href: Manjourides_CV.pdf
     - text: "Personal"
       href: Personal.html
+    - text: "Presentations"
+      href: Presentations.html
 output_dir: "."

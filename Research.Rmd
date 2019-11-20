@@ -12,7 +12,6 @@ I am currently Co-Principal Investigator of an intervention effectiveness projec
 [Our team](http://www.northeastern.edu/ergonomics/) was the first to characterize the [mobility of workers on construction sites](http://onlinelibrary.wiley.com/doi/10.1002/ajim.22461/abstract), and following up on this work I have developed methods to improve both the accuracy and precision of interventions on mobile work forces, by incorporating intervention dose in the modeling, as opposed to performing intent-to-treat or complete case analyses. [The Effect of Workforce Mobility on Intervention Effectiveness Estimates](https://academic.oup.com/annweh/advance-article/doi/10.1093/annweh/wxx112/4830164)
 
 ### Other Collaborations
-* A better way to handle neutral observations (zeroes) in sign and signed-rank tests: [Link](http://pjsor.com/index.php/pjsor/article/view/2508/742)
 * Interesting methods for risk mapping of multidrug-resistant tuberculosis (MDR-TB): [Link](https://www.ncbi.nlm.nih.gov/pubmed/22401962) and  [Link](https://academic.oup.com/jid/article/213/2/287/2459265/Identifying-Hotspots-of-Multidrug-Resistant)
 * A permutation test for determining significance in hierarchical clustering [Link](http://www.sciencedirect.com/science/article/pii/S0167947309002217)
 * Examining how spatial resolution effects cluster detection: [Link](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-6-52)
