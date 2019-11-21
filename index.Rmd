@@ -7,7 +7,7 @@ I am an Associate Professor of Biostatistics in the [Health Sciences](http://www
 knitr::include_graphics('Justin_Headshot.jpeg')
 ```
 
-#Contact
+### Contact 
 Email:  
 j.manjourides at northeastern dot edu  
 
