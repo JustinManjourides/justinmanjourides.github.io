@@ -7,7 +7,7 @@ I teach biostatistics courses across all education levels, including undergradua
 In recognition of my teaching achievements, while maintaining an active research portfolio, I was selected as the **2015 Northeastern University Kenerson Faculty Scholar**, an award that recognizes a faculty member who has shown a commitment to improving the health of people in the urban community through interdisciplinary research and teaching activities. 
 
 ## Current Courses  
-* PHTH5210 - Biostatistics in Public Health (on-line) [Spring 2020](PHTH_5210_Syllabus_spring_2018.pdf)
+* PHTH5210 - Biostatistics in Public Health (on-line) [Spring 2020](PHTH_5210_Syllabus_spring 2020.pdf)
 * PHTH2210 - Foundations of Biostatistics [Spring 2020](https://justinmanjourides.github.io/PHTH2210)
 
 ## Previous Courses
