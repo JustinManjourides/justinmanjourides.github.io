@@ -1,0 +1,27 @@
+---
+title: "DASHES Lab"
+
+---
+
+The **Data Analytics in Health Sciences Lab** works to develop and apply novel statistical methodologies to improve public health.   
+
+### Current Students
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics('tommy.jpg')
+```
+
+##### [Thomas Carpenito](https://www.tommycarpenito.com)
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics('tommy.jpg')
+```
+
+##### [Sara Burns]()
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics('tommy.jpg')
+```
+
+##### [Mike Williams]()
+
